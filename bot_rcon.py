@@ -10,7 +10,7 @@ import berconpy
 client = berconpy.AsyncRCONClient()
 IP = '127.0.0.1'
 PORT = 2310
-PASSWORD = "rcon123123cfcjhasdf"
+PASSWORD = "1111111111111f"
 
 @client.dispatch.on_login
 async def on_login():
